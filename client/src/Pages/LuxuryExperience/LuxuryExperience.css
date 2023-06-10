@@ -35,7 +35,7 @@
 }
 .reservation {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   flex-direction: row;
   text-align: center;
   align-items: center;

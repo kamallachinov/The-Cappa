@@ -23,7 +23,7 @@
 .aboutRoom ul li {
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   text-align: start;
   gap: 7px;
 }
@@ -116,8 +116,8 @@
 }
 .modalRow .ages {
   display: flex;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   text-align: center;
   flex-direction: column;
 }

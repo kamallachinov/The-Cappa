@@ -22,7 +22,7 @@
 }
 .reservation {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   flex-direction: row;
   text-align: center;
   align-items: center;
@@ -100,5 +100,5 @@
   font-size: 15px;
   color: #666;
   display: flex;
-  align-items: start;
+  align-items: flex-start;
 }

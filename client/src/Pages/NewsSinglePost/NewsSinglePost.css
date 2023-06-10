@@ -14,7 +14,7 @@
 .newsSinglePost .textCenter .subtitle {
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   text-align: center;
   font-size: 20px;
   font-family: "Barlow Condensed", sans-serif;
@@ -35,8 +35,8 @@
 }
 .newsSinglePost .textCenter .title {
   display: flex;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   text-align: start;
   font-family: "Gilda Display", serif;
   font-weight: 400;
@@ -47,7 +47,7 @@
 }
 .newsSinglePost .textCenter div {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   text-align: center;
 }
@@ -118,7 +118,7 @@
 }
 .firstCol .miniDiv div {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   text-align: center;
   margin-top: 22px;
@@ -159,7 +159,7 @@
 }
 .firstCol .commentPart {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   text-align: center;
   flex-direction: row;
@@ -170,21 +170,21 @@
 }
 .firstCol .commentPart div {
   display: flex;
-  align-items: start;
-  justify-content: start;
+  align-items: flex-start;
+  justify-content: flex-start;
   text-align: start;
 }
 .firstCol .commentPart .textContainer {
   display: flex;
   flex-direction: column;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   text-align: start;
 }
 .firstCol .commentPart .textContainer h3 {
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   text-align: start;
   font-size: 20px;
   color: #222;
@@ -218,8 +218,8 @@
 .firstCol .FormPart {
   display: flex;
   flex-direction: column;
-  align-items: start;
-  justify-content: start;
+  align-items: flex-start;
+  justify-content: flex-start;
   text-align: start;
   margin-top: 5rem;
 }
@@ -347,8 +347,8 @@
   display: flex;
   flex-direction: column;
   text-align: start;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   background: #f8f5f0;
   padding: 30px;
   margin-bottom: 30px;
@@ -380,8 +380,8 @@
 }
 .secCol .recentPost ul li div {
   display: flex;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   text-align: start;
   gap: 10px;
 }
@@ -401,8 +401,8 @@
   display: flex;
   flex-direction: column;
   text-align: start;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   background: #f8f5f0;
   padding: 30px;
   margin-bottom: 30px;
@@ -447,8 +447,8 @@
   display: flex;
   flex-direction: column;
   text-align: start;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   background: #f8f5f0;
   padding: 30px;
   margin-bottom: 30px;
@@ -484,7 +484,7 @@
   font-size: 15px;
   line-height: 1.5em;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   text-align: start;
   gap: 10px;
@@ -498,8 +498,8 @@
   display: flex;
   flex-direction: column;
   text-align: start;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   background: #f8f5f0;
   padding: 30px;
   margin-bottom: 30px;
